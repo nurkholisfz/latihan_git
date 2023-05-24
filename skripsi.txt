@@ -2,4 +2,4 @@ Hello world
 
 ini perubahan revisi 1
 
-latihan konflik dari budi
+latihan konflik dari budi dan alex
